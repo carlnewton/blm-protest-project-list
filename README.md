@@ -23,6 +23,10 @@ Repository containing evidence of police brutality during the 2020 George Floyd 
 
 - [Spreadsheet](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vQnoNTUx4HU09pNioKwh6SxgLyrJXJuXKt6IIejynkVq_JBBGQQwAMR0OGsgVilHhjUUdN1WEFpXwjo/pubhtml)
 
+### Press Freedom Abuses
+
+- [Spreadsheet](https://docs.google.com/spreadsheets/u/1/d/1N9w2L79WCoqEfiIMBzd-HL-AH1vt-4xwa0TUpkpfBfg/htmlview)
+
 ## APIs
 
 - [2020PB](https://raw.githubusercontent.com/2020PB/police-brutality/data_build/all-locations.json)

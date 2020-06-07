@@ -28,7 +28,9 @@ Repository containing evidence of police brutality during the 2020 George Floyd 
 - [2020PB](https://raw.githubusercontent.com/2020PB/police-brutality/data_build/all-locations.json)
 - [policebrutality.io](https://github.com/nickatnight/policebrutality.io)
 
-## Websites
+## Websites and Visuals
 
 - [Protest Tracker](https://police-misconduct-feed.netlify.app/)
 - [Brutality map](https://maminian.github.io/brutality-map/)
+- [Brutality map](https://frontend-1750f.web.app/)
+- [Policy Brutality Timeline](https://bread.codes/PoliceBrutality/)
